@@ -1,0 +1,2 @@
+# AIML
+diabetes prediction list
